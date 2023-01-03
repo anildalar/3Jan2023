@@ -1,0 +1,10 @@
+Hello Anil    10 Times
+
+
+You have to accept the input from user?
+
+1. JS Propmt Box
+2. HTML Form
+
+Name
+How Time
